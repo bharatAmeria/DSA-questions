@@ -1,9 +1,6 @@
-import org.w3c.dom.Node;
-
 public class LL {
     public static Node1 newNode( int key) {
-        Node1 node = new Node1(key, null);
-        return node;
+        return new Node1(key, null);
     }
     public static void printList(Node1 head) {
         Node1 ptr = head;
@@ -66,6 +63,6 @@ class Node1{
          this.next = next;
      }
 
-    public Node1() {
-     }
+    Node1() {}
 }
+
