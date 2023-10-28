@@ -1,13 +1,13 @@
- class Node4 {
+ class Node {
     int data;
-    Node4 next;
+    Node next;
 
-    Node4(int data, Node4 next) {
+    Node(int data, Node next) {
         this.data = data;
         this.next = next;
     }
     public void print() {
-        Node4 ptr = this;
+        Node ptr = this;
         while (ptr != null)
         {
             System.out.print(ptr.data + " —> ");
@@ -18,16 +18,16 @@
  }
 
  class main1 {
-    public static Node4 reverseInGroups(Node4 head, int k) {
+    public static Node reverseInGroups(Node head, int k) {
         if (head == null) {
             return null;
         }
-        Node4 current = head;
-        Node4 prev = null;
+        Node current = head;
+        Node prev = null;
         int count= 0;
 
         while (current != null && count++ < k) {
-            Node4 next = current.next;
+            Node next = current.next;
             current.next = prev;
             prev = current;
             current = next;
@@ -38,9 +38,9 @@
 
      public static void main(String[] args) {
          int[] keys = {1,2,3,4,5,6,7,8};
-         Node4 head = null;
+         Node head = null;
          for (int i = keys.length - 1; i >= 0; i--) {
-             head = new Node4(keys[i], head);
+             head = new Node(keys[i], head);
          }
 
          head = reverseInGroups(head, 3);

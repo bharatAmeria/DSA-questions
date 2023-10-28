@@ -1,13 +1,4 @@
 public class Static_LL {
-}
-class Node{
-    int data;
-    Node next;
-
-    Node(int data, Node next) {
-        this.data = data;
-        this.next = next;
-    }
     public static void printList(Node head) {
         Node ptr = head;
         while ( ptr != null) {
