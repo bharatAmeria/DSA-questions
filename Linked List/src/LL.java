@@ -63,6 +63,6 @@ class Node1{
          this.next = next;
      }
 
-    Node1() {}
+     Node1() {}
 }
 
