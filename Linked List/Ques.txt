@@ -1,0 +1,62 @@
+Linked List | Insertion at Tail
+Static Linked List
+Clone given Linked List
+Delete Linked List
+Pop operation in linked list
+Insert given node into the correct sorted position in the given sorted linked list
+Rearrange linked list in increasing order (Sort linked list)
+Split the nodes of the given linked list into front and back halves
+Remove duplicates from a sorted linked list
+Move front node of the given list to the front of the another list
+Move even nodes to the end of the list in reverse order
+Split given linked list into two lists where each list containing alternating elements from it
+Construct a linked list by merging alternate nodes of two given lists
+Merge Sort Algorithm for Singly Linked List
+Merge two sorted linked lists into one
+Merge K sorted linked lists
+Intersection of two given sorted linked lists
+Reverse Linked List (Iterative Solution)
+Reverse Linked List (Recursive Solution)
+Reverse every group of k nodes in given linked list
+Find K’th node from the end in a linked list
+Merge alternate nodes of two linked lists into the first list
+Merge two sorted linked lists from their end
+Delete every N nodes in a linked list after skipping M nodes
+Rearrange linked list in specific manner in linear time
+Check if linked list is palindrome or not
+Move last node to front in a given Linked List
+Rearrange the linked list in specific manner
+Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm)
+Sort linked list containing 0’s, 1’s and 2’s
+Implement Stack using Linked List
+Implement Queue using Linked List
+Remove duplicates from a linked list
+Rearrange the linked list so that it has alternating high, low values
+Rearrange a Linked List by Separating Odd Nodes from the Even Ones
+Calculate height of a binary tree with leaf nodes forming a circular doubly linked list
+XOR Linked List: Overview and Implementation
+Convert a multilevel linked list to a singly linked list
+Recursively check if linked list of characters is palindrome or not
+Merge two BSTs into a doubly linked list in sorted order
+Remove redundant nodes from a path formed by a linked list
+Add a single-digit number to a linked list representing a number
+Reverse every alternate group of k nodes in a linked list
+Determine if a given linked list is a palindrome or not
+Sort a Doubly Linked List using Merge Sort
+Reverse a Doubly Linked List
+Pairwise swap adjacent nodes of a linked list
+Flatten a linked list
+Check if a Linked List of String is Palindromic
+Flatten a multilevel linked list
+Construct a height-balanced BST from an unbalanced BST
+Swap K’th node from beginning with K’th node from end in a Linked List
+Add two linked lists without using any extra space
+Clone a Linked List with Random Pointers
+Update random pointer for each linked list node to point to the maximum node
+Link nodes present in each level of a binary tree in the form of a linked list
+Convert a Ternary Tree to a Doubly Linked List
+Print nodes of a given binary tree in vertical order
+Convert a Binary Tree into a Doubly Linked List in Spiral Order
+Construct a Height-Balanced BST from a Sorted Doubly Linked List
+In-place merge two sorted linked lists without modifying links of the first list
+Reverse specified portion of a Linked List
