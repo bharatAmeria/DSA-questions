@@ -19,32 +19,28 @@ public class Ques_32 {
         Node1 curr = head;
         while (curr != null) {
 
-            if (curr.data == 0)
-            {
+            if (curr.data == 0) {
                 zero.next = curr;
                 zero = zero.next;
-            }
-            else if (curr.data == 1)
-            {
+            } else if (curr.data == 1) {
                 one.next = curr;
                 one = one.next;
-            }
-            else {
+            } else {
                 two.next = curr;
                 two = two.next;
             }
             curr = curr.next;
         }
-        zero.next = (second.next != null) ? (second.next): (third.next);
+        zero.next = (second.next != null) ? (second.next) : (third.next);
         one.next = third.next;
         two.next = null;
         return first.next;
     }
 
     public static void main(String[] args) {
-        int[] keys = {1,2,0,0,1,2,1,2,1};
+        int[] keys = {1, 2, 0, 0, 1, 2, 1, 2, 1};
         Node1 head = null;
-        for (int i = keys.length - 1; i >= 0 ; i--) {
+        for (int i = keys.length - 1; i >= 0; i--) {
             head = new Node1(keys[i], head);
         }
         head = sortList(head);
