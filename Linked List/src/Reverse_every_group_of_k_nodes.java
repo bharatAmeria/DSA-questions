@@ -6,7 +6,12 @@
         this.data = data;
         this.next = next;
     }
-    public void print() {
+
+     public Node(int item) {
+
+     }
+
+     public void print() {
         Node ptr = this;
         while (ptr != null)
         {
