@@ -1,0 +1,58 @@
+Print Matrix in Spiral Order
+Shift all matrix elements by 1 in Spiral Order
+Find Shortest path from source to destination in a matrix that satisfies given constraints
+Change all elements of row i and column j in a matrix to 0 if cell (i, j) has value 0
+Print diagonal elements of the matrix having positive slope
+Find all paths from first cell to last cell of a matrix
+Replace all occurrences of 0 that are not surrounded by 1 in a binary matrix
+In-place rotate the matrix by 90 degrees in clock-wise direction
+Count negative elements present in sorted matrix in linear time
+Report all occurrences of an element in row wise and column wise sorted matrix in linear time
+Calculate sum of all elements in a sub-matrix in constant time
+Find maximum sum K x K sub-matrix in a given M x N matrix
+Find maximum sum subMatrix present in a given matrix
+Count the number of islands
+Flood Fill Algorithm
+Find shortest safe route in a field with sensors present
+Find all occurrences of given string in a character matrix
+Shortest path in a Maze | Lee Algorithm
+Check if given matrix is Toeplitz matrix or not
+In-place rotate the matrix by 180 degrees
+Fill Binary Matrix with Alternating Rectangles of 0 and 1
+Find all common elements present in every row of given matrix
+Construct a Binary Tree from Ancestor Matrix
+Find common elements present in all rows of a matrix
+Find index of the row containing maximum number of 1’s in a binary matrix
+Find the largest square sub-matrix which is surrounded by all 1's
+Find minimum passes required to convert all negative values in the matrix
+Print a spiral square matrix without using any extra space
+Print all shortest routes in a rectangular grid
+Find length of longest path in the matrix with consecutive characters
+Collect maximum value of coins in a matrix
+Young Tableau | Insert, Search, Extract-Min, Delete, Replace
+Sort an array using Young tableau
+Find path from source to destination in a matrix that satisfies given constraints
+Generate list of possible words from a character matrix
+Find probability that a person is alive after taking N steps on the island
+Collect maximum points in a matrix by satisfying given constraints
+Count number of paths in a matrix with given cost to reach destination cell
+Find longest sequence formed by adjacent numbers in the matrix
+Find the minimum cost to reach last cell of the matrix from its first cell
+Ways to reach the bottom-right corner of a matrix with exactly k turns allowed
+Matrix Chain Multiplication
+Find size of largest square sub-matrix of 1’s present in given binary matrix
+Chess Knight Problem — Find Shortest path from source to destination
+Find Duplicate rows in a binary matrix
+Print all possible solutions to N Queens Problem
+Print all Possible Knight’s Tours in a chessboard
+Find Shortest Path in Maze
+Find Longest Possible Route in a Matrix
+Find total number of unique paths in a maze from source to destination
+Calculate size of the largest plus of 1’s in binary matrix
+Find the maximum value of M[c][d] — M[a][b] over all choices of indexes
+Find shortest distance of every cell from landmine in a Maze
+Find shortest route in a device to construct the given string
+Calculate minimum cost to reach destination city from source city
+Count all paths in a matrix from first cell to last cell
+Merge M sorted lists each containing N elements
+Travelling Salesman Problem using Branch and Bound
