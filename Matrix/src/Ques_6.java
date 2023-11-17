@@ -17,10 +17,10 @@ public class Ques_6 {
         }
         path.add(mat[i][j]);
 
-        if (i >= 0 && i < M && j + 1 >= 0 && j + 1 < N) {
+        if (j + 1 < N) {
             findPath(mat, path, i, j + 1);
         }
-        if ((i + 1 >= 0 && i + 1 < M && j >= 0 && j < N)) {
+        if (i + 1 < M && j < N) {
             findPath(mat, path, i + 1, j);
         }
         path.pop();
